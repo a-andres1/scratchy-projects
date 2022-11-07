@@ -8,4 +8,5 @@ Dinos in space is a video game I'm creating in scratch. So far my psuedo coding 
 
 I think there's probably an easier way to integrate with Github, and perhaps I'll look into that with this project moving forward. 
 
-*Note to add a screenshot of my calendar tomorrow* 
+
+
